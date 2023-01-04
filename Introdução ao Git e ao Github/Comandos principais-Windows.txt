@@ -1,0 +1,12 @@
+CD - Ir para diretorio 
+DIR - Listar
+CD .. - Voltar 1 nível de navegação
+CLS - Limpar a tela
+TAB - Completar o texto (atalho)
+MKDIR + nome - Criar pasta
+RMIR + nome - Apagar pasta 
+GIT CLONE - Baixa o codigo fonte de um repositorio remoto
+GIT STATUS - Fornece informações sobre a BRANCH atual 
+GIT ADD - Incluir informações no proximo commit
+GIT COMMIT - Ponto de verificação do desenvolvimento
+GIT PUSH - Enviar alterações para o servidor remoto 

@@ -1,0 +1,2 @@
+Permite ver o histórico de commits ou um específico, utilizando opções de personalização do comando para uma visualização mais amigável e descritiva.
+

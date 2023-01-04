@@ -1,0 +1,5 @@
+Commits
+
+Nome dado a um conjunto de alterações feitas em um projeto. 
+
+Nesta configuração, utilizaremos os parâmetros –all, que adiciona todos os arquivos para o staged de mudanças, e logo em seguida (&&) executar o commit com o parâmetro –m, que permite incluir a mensagem descritiva do nosso commit.

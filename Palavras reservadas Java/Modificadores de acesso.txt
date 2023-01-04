@@ -1,0 +1,8 @@
+private: acesso apenas dentro da classe
+
+protected: acesso por classes no mesmo pacote e subclasses
+
+public: acesso de qualquer classe
+
+
+

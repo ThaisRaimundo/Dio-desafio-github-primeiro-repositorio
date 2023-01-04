@@ -1,0 +1,14 @@
+Scrum
+O Scrum é um dos frameworks ágeis mais populares e muitas vezes confundido com o conceito da metodologia em si. Para trabalhar com Scrum, o principal é que você entenda todos os pontos positivos e negativos da sua equipe e que tenha papéis bem definidos para cada um dos envolvidos. É importante que exista um representante do projeto, uma pessoa que vai criar uma lista de prioridades, conhecida como backlog, para garantir que a entrega apresente bons resultados.
+
+
+Lean
+O Lean, traduzido como “enxuto”, se tornou bastante conhecido entre as StartUps. Ele é o método mais indicado para projetos reduzidos e mais objetivos. Um de seus principais focos é identificar e eliminar desperdícios dentro de um projeto ou de uma organização.
+
+
+Kanban
+O objetivo do Kanban é organizar o projeto de forma visual e, para trabalhar com este método, você precisa basicamente criar um quadro físico ou virtual e dividi-lo em três partes, porém você pode adaptar estas três partes para refletir o seu processo de entrega, da seguinte forma
+
+
+Smart
+Smart é uma excelente alternativa de criar objetivos mais reais e possíveis de serem atingidos, esta técnica pode ser utilizada em abordagens ágeis, tradicionais ou híbridas. 

@@ -1,0 +1,5 @@
+const: Não utilize para declarar constantes; use public static final
+
+goto: não implementada na linguagem Java por ser considerada prejudicial
+
+

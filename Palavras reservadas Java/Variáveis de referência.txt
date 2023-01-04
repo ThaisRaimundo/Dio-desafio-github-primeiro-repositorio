@@ -1,0 +1,6 @@
+super: refere-se a superclasse imediata
+
+this: refere-se a instância atual do objeto
+
+
+

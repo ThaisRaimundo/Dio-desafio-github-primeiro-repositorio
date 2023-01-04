@@ -1,0 +1,9 @@
+Em 2001, um grupo de 17 pessoas se reuniram para debater sobre novas abordagens de gestão de projetos, criando o revolucionário Manifesto para Desenvolvimento Ágil de Software, onde oficializam a existência das metodologias e seus princípios característicos. O manifesto se baseia em 4 pilares:
+
+Adaptabilidade e flexibilidade: responder a mudanças é mais que seguir um plano.
+
+Alinhamento de expectativas e colaboração: a colaboração com o cliente e com os membros do projeto é mais que a negociação de contratos.
+
+Comunicação: indivíduos e interação são mais que processos e ferramentas.
+
+Praticidade: Softwares em funcionamento são mais que documentação abrangente.
